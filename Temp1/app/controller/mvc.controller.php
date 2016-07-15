@@ -42,7 +42,7 @@ class mvc_controller {
    */
    function principal()
    {
-		$pagina=$this->load_template('Pagina Principal Chris');		/*titulo de la pagina */		
+		$pagina=$this->load_template('Pagina Principal Chris, Mario');		/*titulo de la pagina */		
 		$html = $this->load_page('app/views/default/modules/m.principal.php');
 		$pagina = $this->replace_content('/\#CONTENIDO\#/ms' ,$html , $pagina);
 		$this->view_page($pagina);
