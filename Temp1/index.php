@@ -4,7 +4,7 @@
      //se instancia al controlador 
 	$mvc = new mvc_controller();
 
-	if( $_GET['action'] == 'buscar' ) //muestra el modulo del buscador
+	/*if( $_GET['action'] == 'buscar' ) //muestra el modulo del buscador
 	{	
 			$mvc->buscador();	
 	}
@@ -15,11 +15,11 @@
 	else if( isset($_POST['carrera']) && isset($_POST['cantidad']) )//muestra el buscador y los resultados
 	{
 			$mvc->buscar( $_POST['carrera'], $_POST['cantidad'] );
-	}
-	else //Si no existe GET o POST -> muestra la pagina principal
-	{	
+	} */
+	//else //Si no existe GET o POST -> muestra la pagina principal
+	//{	
 		$mvc->principal();
-	}
+	//}
 
 	
 
