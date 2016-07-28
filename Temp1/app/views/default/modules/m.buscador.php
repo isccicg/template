@@ -1,40 +1,33 @@
- <!--<form action="index.php" method="post">
-		 <table border="0" cellspacing="4" cellpadding="0" class="tabla">
-  <tr>
-    <td>Buscar por: </td>
-    <td><label>
-      <select name="carrera">
-        <option value="Arquitectura">Arquitectura</option>
-        <option value="Enfermeria">Enfermeria</option>
-        <option value="Ingenieria Quimica">Ingenieria Quimica</option>
-        <option value="Odontologia">Odontologia</option>
-        <option value="Ingenieria de Sistemas">Ingenieria de Sistemas</option>
-        <option value="Gas y Petroleo">Gas y Petroleo</option>
-        <option value="Administraci&oacute;n de Empresas">Administraci&oacute;n de Empresas</option>
-        <option value="Dise&ntilde;o de Interiores">Dise&ntilde;o de Interiores</option>
-        <option value="Ingenieria Civil">Ingenieria Civil</option>
-        <option value="Ingenieria de Perros">Ingenieria de Alimentos</option>		
-      </select>
-    </label></td>
-    <td>Cantidad de registros: </td>
-    <td><label>
-      <select name="cantidad">
-        <option value="10">10</option>
-        <option value="12">12</option>
-        <option value="16">16</option>
-        <option value="24">24</option>
-        <option value="36">36</option>
-        <option value="72">72</option>
-        <option value="100">100</option>
-        <option value="200">200</option>
-      </select>
-    </label></td>
-    <td><label>
-      <input type="submit" name="Submit" value="   Buscar   " />
-    </label></td>
-  </tr>
-</table>
-</form>-->
+ <!--<div class="row">
+<div class="col-xs-5 col-sm-3 col-md-3">
+<a id="logo" href="https://shapebootstrap.net/">
+<img src="/templates/default/images/presets/preset1/logo@2x.png" alt="ShapeBoostrap">
+</a>
+</div>
+<div class="col-xs-5 col-sm-5 col-md-4">
+<div id="theme-selector">
+<span class="theme-name">Himu - Free Responsive Bootstrap Template</span>
+<span class="pull-right"><i class="sp-angle-up"></i><i class="sp-angle-down"></i></span>
+</div>
+</div>
+<div class="col-xs-2 col-sm-4 col-md-4">
+<div id="product-tools" class="clearfix">
+<div>
+<a id="remove-frame" href="#"><span><i class="fa fa-times"></i></span></a>
+</div>
+<div class="product-links hidden-xs">
+<a class="btn btn-success btn-purchase" href="/item/1525205-himu-free-responsive-bootstrap-template">Buy Now</a>
+</div>
+<div id="responsive" class="hidden-sm hidden-xs">
+<a id="desktop" href="#" class="active"><i class="fa fa-desktop"></i></a>
+<a id="tablet-landscape" href="#"><i class="fa fa-tablet"></i></a>
+<a id="tablet-portrait" href="#"><i class="fa fa-tablet"></i></a>
+<a id="phone-landscape" href="#"><i class="fa fa-mobile"></i></a>
+<a id="phone-portrait" href="#"><i class="fa fa-mobile"></i></a>
+</div>
+</div>
+</div>
+</div>  -->
 
 
 

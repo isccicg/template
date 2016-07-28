@@ -42,7 +42,8 @@ class mvc_controller {
    */
    function principal()
    {
-		$pagina=$this->load_template('Pagina Principal Chris, Mario, Rafa');		/*titulo de la pagina */		
+		$pagina=$this->load_template('');	/*titulo de la pagina */		
+		
 		$html = $this->load_page('app/views/default/modules/m.principal.php');
 		$pagina = $this->replace_content('/\#CONTENIDO\#/ms' ,$html , $pagina);
 		$this->view_page($pagina);
@@ -75,8 +76,8 @@ class mvc_controller {
 		$pagina = $this->replace_content('/\#HEAD\#/ms' ,$head , $pagina);
 		$pagina = $this->replace_content('/\#HEADER\#/ms',$header , $pagina);
 		$pagina = $this->replace_content('/\#TITLE\#/ms' ,$title , $pagina);				
-		$menu_left = $this->load_page('app/views/default/sections/s.menuizquierda.php');
-		$pagina = $this->replace_content('/\#MENULEFT\#/ms' ,$menu_left , $pagina);
+		/*$menu_left = $this->load_page('app/views/default/sections/s.menuizquierda.php');
+		$pagina = $this->replace_content('/\#MENULEFT\#/ms' ,$menu_left , $pagina);*/
 		return $pagina;
 	}
 	
