@@ -72,9 +72,11 @@ class mvc_controller {
 
 		$head = $this->load_page('app/views/default/sections/s.head.php');		
 		$header = $this->load_page('app/views/default/sections/s.header.php');
+		$foot = $this->load_page('app/views/default/sections/s.foot.php');
 
 		$pagina = $this->replace_content('/\#HEAD\#/ms' ,$head , $pagina);
 		$pagina = $this->replace_content('/\#HEADER\#/ms',$header , $pagina);
+		$pagina = $this->replace_content('/\#FOOT\#/ms',$foot , $pagina);
 		$pagina = $this->replace_content('/\#TITLE\#/ms' ,$title , $pagina);				
 		/*$menu_left = $this->load_page('app/views/default/sections/s.menuizquierda.php');
 		$pagina = $this->replace_content('/\#MENULEFT\#/ms' ,$menu_left , $pagina);*/

@@ -24,5 +24,7 @@
 		</div>
 		<!-- end: contenido -->		 
 </div>
+
+#FOOT#
 </body>
 </html>
