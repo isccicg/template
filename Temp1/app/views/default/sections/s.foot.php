@@ -4,4 +4,7 @@
   <script type="text/javascript" src="app/views/default/efectos/js/jquery.isotope.min.js"></script>
   <script type="text/javascript" src="app/views/default/efectos/js/jquery.prettyPhoto.js"></script> 
   <script type="text/javascript" src="app/views/default/efectos/js/jquery.parallax.js"></script> 
-  <script type="text/javascript" src="app/views/default/efectos/js/main.js"></script> 
+  <script type="text/javascript" src="app/views/default/efectos/js/main.js"></script>
+  <script type="text/javascript" src="app/views/default/efectos/js/wowslider.js"></script>
+  <script type="text/javascript" src="app/views/default/efectos/js/script.js"></script>
+  <script type="text/javascript" src="app/views/default/efectos/js/index.js"></script> 

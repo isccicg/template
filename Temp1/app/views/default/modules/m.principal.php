@@ -1,27 +1,3 @@
-
-<!--<div id="akeeba-renderjoomla">
-<body class="loading">
-<div class="preloader">
-<div></div>
-</div>
-
-<div id="templates-wrapper" style="display: none;">
-<div class="container">
-<div class="templates-demo">
-<div class="clearfix" style="margin-bottom: 20px;">
-<a href="/profile/mostafiz"><strong>Mostafiz</strong></a>'s Themes
-</div>
-<div class="demo-list">
-<div class="row active"><div class="col-xs-6 col-sm-3"><div class="template-item active" data-slug="/item/1525205-himu-free-responsive-bootstrap-template"><a class="demo-link" href="//mostafiz.me/demo/himu/"><h3 class="template-title">Himu - Free Responsive Bootstrap Template</h3></a><div class="template"><a class="demo-link" href="//mostafiz.me/demo/himu/"><img class="img-responsive" data-src="http://shapebootstrap.net/media/com_product/products/thumb/1525205/thumbnail.png" src="/media/com_product/products/thumb/1525205/thumbnail.png" alt="Himu - Free Responsive Bootstrap Template"></a></div></div></div><div class="col-xs-6 col-sm-3"><div class="template-item" data-slug="/item/1524946-lucid-html5-and-bootstrap-responsive-app-landing-page"><a class="demo-link" href="//mostafiz.me/demo/lucid/"><h3 class="template-title">Lucid - HTML5 and Bootstrap Responsive app landing page</h3></a><div class="template"><a class="demo-link" href="//mostafiz.me/demo/lucid/"><img class="img-responsive" data-src="http://shapebootstrap.net/media/com_product/products/thumb/1524946/thumbnail.png" src="/media/com_product/products/thumb/1524946/thumbnail.png" alt="Lucid - HTML5 and Bootstrap Responsive app landing page"></a></div></div></div><div class="col-xs-6 col-sm-3"><div class="template-item" data-slug="/item/1524947-doctor-responsive-html-template"><a class="demo-link" href="//mostafiz.me/demo/doctor"><h3 class="template-title">Doctor - Responsive HTML Template</h3></a><div class="template"><a class="demo-link" href="//mostafiz.me/demo/doctor"><img class="img-responsive" data-src="http://shapebootstrap.net/media/com_product/products/thumb/1524947/thumbnail.png" src="/media/com_product/products/thumb/1524947/thumbnail.png" alt="Doctor - Responsive HTML Template"></a></div></div></div></div> </div>
-</div>
-</div>
-</div>
-<div id="demoframe">
-<iframe name="demoframe" src="//mostafiz.me/demo/himu/" frameborder="0"></iframe>
-</div>
-</body></div> -->
-
-
 <div class="preloader">
     <div class="preloder-wrap">
       <div class="preloder-inner"> 
@@ -34,79 +10,97 @@
         <div class="ball"></div>
       </div>
     </div>
-  </div><!--/.preloader-->
-  <header id="navigation"> 
-    <div class="navbar navbar-inverse navbar-fixed-top" role="banner"> 
-      <div class="container"> 
+</div><!--/.preloader-->
+
+<header id="navigation"> 
+  <div class="navbar navbar-inverse navbar-fixed-top" role="banner"> 
+    <div class="container"> 
         <div class="navbar-header"> 
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> 
             <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> 
           </button> 
-          <a class="navbar-brand" href="index.html"><h1><img src="images/logo.png" alt="logo"></h1></a> 
+          <a class="navbar-brand" href="index.html"><h1>EDS<img src="" alt=""></h1></a> 
         </div> 
         <div class="collapse navbar-collapse"> 
           <ul class="nav navbar-nav navbar-right"> 
-            <li class="scroll active"><a href="#navigation">Home</a></li> 
-            <li class="scroll"><a href="#about-us">About Us</a></li> 
-            <li class="scroll"><a href="#services">Services</a></li> 
-            <li class="scroll"><a href="#our-team">Our Team</a></li> 
+            <li class="scroll active"><a href="#navigation">Inicio</a></li> 
+            <li class="scroll"><a href="#about-us">Acerca de</a></li> 
+            <li class="scroll"><a href="#services">Servicios</a></li> 
+            <li class="scroll"><a href="#our-team">Nuestro equipo</a></li> 
             <li class="scroll"><a href="#portfolio">Portfolio</a></li> 
-            <li class="scroll"><a href="#clients">Clients</a></li> 
+            <li class="scroll"><a href="#clients">Clientes</a></li> 
             <li class="scroll"><a href="#blog">Blog</a></li> 
-            <li class="scroll"><a href="#contact">Contact</a></li> 
+            <li class="scroll"><a href="#contact">Contacto</a></li> 
           </ul> 
         </div> 
-      </div> 
-    </div><!--/navbar--> 
-  </header> <!--/#navigation--> 
+    </div> 
+  </div><!--/navbar--> 
+</header> <!--/#navigation--> 
 
-  <section id="home">
-    <div class="home-pattern"></div>
+<section id="home">
+  <div class="home-pattern"></div>
     <div id="main-carousel" class="carousel slide" data-ride="carousel"> 
       <ol class="carousel-indicators">
         <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
         <li data-target="#main-carousel" data-slide-to="1"></li>
         <li data-target="#main-carousel" data-slide-to="2"></li>
       </ol><!--/.carousel-indicators--> 
-      <div class="carousel-inner">
-        <div class="item active" style="background-image: url(app/views/default/efectos/images/slider/slide3.jpg)"> 
-          <div class="carousel-caption"> 
-            <div> 
-              <h2 class="heading animated bounceInDown">'Himu' Onepage HTML Template</h2> 
-              <p class="animated bounceInUp">Fully Professional one page template</p> 
-              <a class="btn btn-default slider-btn animated fadeIn" href="#">Get Started</a> 
-            </div> 
-          </div> 
+      
+      <!-- Start Slider-->
+      <div id="wowslider-container1">
+        <div class="ws_images">
+          <ul>
+            <li>
+              <img src="app/views/default/efectos/images/slider/imagen1.jpg" alt="imagen1" title="" id="wows1_0"/>
+              <h2 class="heading animated bounceInDown">Desarrollo de Aplicaciones</h2>
+              <h3><p class="animated bounceInUp">Calidad, eficiencia y funcionalidad.</p></h3>
+            </li>
+            <li>
+              <img src="app/views/default/efectos/images/slider/imagen2.jpg" alt="imagen2" title="" id="wows1_1"/>
+              <h3><p class="animated bounceInUp">Nuestro equipo de trabajo crea aplicaciones web y de escritorio, de acuerdo a tus necesidades.</p></h3>
+            </li>
+            <li>
+              <img src="app/views/default/efectos/images/slider/imagen3.jpg" alt="imagen3" title="" id="wows1_2"/>
+              <h2 class="heading animated bounceInDown">Instalación de Redes</h2>
+              <h3><p class="animated bounceInUp">Comunicación a tu alcance.</p></h3>
+              </li>
+            <li>
+              <img src="app/views/default/efectos/images/slider/imagen4.jpg" alt="imagen4" title="" id="wows1_3"/>
+              <!-- <h2 class="heading animated bounceInDown">Desarrollo de Aplicaciones</h2> -->
+              <h3><p class="animated bounceInUp">Nuestro equipo de trabajo diseña e instala redes de acuerdo a tus necesidades</p></h3>
+            </li>
+            <li>
+              <img src="app/views/default/efectos/images/slider/imagen5.jpg" alt="imagen5" title="" id="wows1_4"/>
+              <h2 class="heading animated bounceInDown">Mantenimiento y Soporte</h2>
+              <h3><p class="animated bounceInUp">Garantizamos el funcionamiento óptimo de los sistemas y equipos.</p></h3>
+            </li>
+            <li>
+              <img src="app/views/default/efectos/images/slider/imagen6.jpg" alt="imagen6" title="" id="wows1_5"/>
+              <!-- <h2 class="heading animated bounceInDown">Desarrollo de Aplicaciones</h2> -->
+              <h3><p class="animated bounceInUp">Mantenimiento Preventivo y Correctivo.</p></h3>
+            </li>
+          </ul>
         </div>
-        <div class="item" style="background-image: url(images/slider/slide2.jpg)"> 
-          <div class="carousel-caption"> <div> 
-            <h2 class="heading animated bounceInDown">Get All in Onepage</h2> 
-            <p class="animated bounceInUp">Everything is outstanding </p> <a class="btn btn-default slider-btn animated fadeIn" href="#">Get Started</a> 
-          </div> 
-        </div> 
-      </div> 
-      <div class="item" style="background-image: url(images/slider/slide1.jpg)"> 
-        <div class="carousel-caption"> 
-          <div> 
-            <h2 class="heading animated bounceInRight">Fully Responsive Template</h2> 
-            <p class="animated bounceInLeft">100% Responsive HTML template</p> 
-            <a class="btn btn-default slider-btn animated bounceInUp" href="#">Get Started</a> 
-          </div> 
-        </div> 
+        <div class="ws_bullets">
+          <div>
+            <a href="#" title="imagen1"><span><img src="app/views/default/efectos/images/tooltips/imagen1.jpg" alt="imagen1"/>1</span></a>
+            <a href="#" title="imagen2"><span><img src="app/views/default/efectos/images/tooltips/imagen2.jpg" alt="imagen2"/>2</span></a>
+            <a href="#" title="imagen3"><span><img src="app/views/default/efectos/images/tooltips/imagen3.jpg" alt="imagen3"/>3</span></a>
+            <a href="#" title="imagen4"><span><img src="app/views/default/efectos/images/tooltips/imagen4.jpg" alt="imagen4"/>4</span></a>
+            <a href="#" title="imagen5"><span><img src="app/views/default/efectos/images/tooltips/imagen5.jpg" alt="imagen5"/>5</span></a>
+            <a href="#" title="imagen6"><span><img src="app/views/default/efectos/images/tooltips/imagen6.jpg" alt="imagen6"/>6</span></a>
+          </div>
+        </div>
       </div>
-    </div><!--/.carousel-inner-->
-
-    <a class="carousel-left member-carousel-control hidden-xs" href="#main-carousel" data-slide="prev"><i class="fa fa-angle-left"></i></a>
-    <a class="carousel-right member-carousel-control hidden-xs" href="#main-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
-  </div> 
-
+      <!-- End Slider -->
+    </div> 
 </section><!--/#home-->
 
 <section id="about-us">
   <div class="container">
     <div class="text-center">
       <div class="col-sm-8 col-sm-offset-2">
-        <h2 class="title-one">Why With Us?</h2>
+        <h2 class="title-one">Porque con nosotros?</h2>
         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
       </div>
     </div>
@@ -778,24 +772,26 @@
                         </div>
                       </div>
                     </div>
+                    <!-- Start Contact -->
                     <div class="col-sm-6"> 
                       <div id="contact-form-section">
                         <div class="status alert alert-success" style="display: none"></div>
-                        <form id="contact-form" class="contact" name="contact-form" method="post" action="send-mail.php">
-                          <div class="form-group">
-                            <input type="text" name="name" class="form-control name-field" required="required" placeholder="Your Name"></div>
+                          <form id="contact-form" onsubmit="return false;" class="contact" name="contact-form">
                             <div class="form-group">
-                              <input type="email" name="email" class="form-control mail-field" required="required" placeholder="Your Email">
+                              <input type="text" name="name" class="form-control name-field" required="required" placeholder="Nombre">
+                            </div>
+                            <div class="form-group">
+                              <input type="email" name="email" class="form-control mail-field" required="required" placeholder="Email">
                             </div> 
                             <div class="form-group">
-                              <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Message"></textarea>
+                              <textarea name="message" id="message" required="required" class="form-control msj" rows="8" placeholder="Mensaje"></textarea>
                             </div> 
                             <div class="form-group">
-                              <button type="submit" class="btn btn-primary">Send</button>
+                              <button type="submit" class="btn btn-primary">Enviar</button>
                             </div>
                           </form> 
-                        </div>
                       </div>
+                    </div>
                     </div>
                   </div>
                 </div> 
