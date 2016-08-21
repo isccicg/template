@@ -599,7 +599,7 @@ h1, h2, h3, h4, h5, h6 {
 ======================*/
 
 #services {
-  background-image: url("../images/services/service-bg.jpg");
+  background-image: url("../images/servicios.jpg");
   color:#fff;
   text-align:center;
   background-color:	#0A0A13;
@@ -937,17 +937,11 @@ h1, h2, h3, h4, h5, h6 {
 ======================*/
 
 #clients{
-	background-image: url("../images/clients/client-bg.jpg");
-	background-color:#0A0A13;
+	background-color:#f6f6f6;
 }
 
 #clients h2 {
 	margin-bottom:30px;
-	color:#f6f6f6
-}
-
-#clients p {
-	color:#fff
 }
 
 #clients-carousel  {
@@ -1156,7 +1150,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #contact {
 	overflow:hidden;
-	background-color: #f6f6f6;
+	background-image: url("../images/recepcionista.jpg");
+	background-color: #0A0A13;
 	position:relative;
 	padding-bottom:85px;
 	border-top:2px solid #ddd
@@ -1186,7 +1181,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .contact-address {
-	background-color: #fff;
+	background-color: rgba(0, 0, 0, 0.39);
 	height:390px;
 	padding-top:85px
 }
@@ -1244,7 +1239,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #contact-form-section {	
 	padding:35px;
-	background-color: #FFF; 
+	background-color: rgba(0, 0, 0, 0.39); 
 	height:390px;
 }
 #contact-form-section .btn-primary {
@@ -1286,9 +1281,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #contact-form-section .form-control {
+	background-color: rgba(0, 0, 0, 0.39); 
 	border-radius:0;
 	-webkit-box-shadow:none;
 	box-shadow:none;
+}
+#contact-form-section .form-control:hover {
+	background-color: #fff;
 }
 
 #contact-form-section textarea {
