@@ -238,11 +238,11 @@
               </div>
               <div class="container">
                 <div class="contact-details">
-                  <div class="pattern"></div>
+                  <!-- <div class="pattern"></div> -->
                   <div class="row text-center clearfix">
                     <div class="col-sm-6">
                       <div class="contact-address"><address><p><span>Devs</span>Cluster</p><strong>36 North Kafrul<br>Dhaka Cantonment Area<br> Dhaka-1206, Bangladesh</strong><br><small>( Lorem ipsum dolor sit amet, consectetuer adipiscing elit )</small></address>
-                        <div class="social-icons">
+                        <div class="social">
                           <a href="#"><i class="fa fa-facebook"></i></a>
                           <a href="#"><i class="fa fa-twitter"></i></a>
                         </div>
