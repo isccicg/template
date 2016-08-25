@@ -97,48 +97,48 @@
   <div class="container">
     <div class="text-center">
       <div class="col-sm-8 col-sm-offset-2">
-        <h2 class="title-one">Porque con nosotros?</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+        <h2 class="title-one">¿Por qué con nosotros?</h2>
+        <p>Somos una empresa, que cuenta con un equipo de trabajo altamente calificado y con el suficiente conocimiento para brindar soluciones tecnológicas.</p>
       </div>
     </div>
     <div class="about-us">
       <div class="row">
         <div class="col-sm-6">
-          <h3>Why with us?</h3>
+          <h3>¿QUIÉNES SOMOS?</h3>
           <ul class="nav nav-tabs">
-            <li class="active"><a href="#about" data-toggle="tab"><i class="fa fa-chain-broken"></i> About</a></li>
-            <li><a href="#mission" data-toggle="tab"><i class="fa fa-th-large"></i> Mission</a></li>
-            <li><a href="#community" data-toggle="tab"><i class="fa fa-users"></i> Community</a></li>
+            <li class="active"><a href="#about" data-toggle="tab"><i class="fa fa-chain-broken"></i> MISIÓN</a></li>
+            <li><a href="#mission" data-toggle="tab"><i class="fa fa-th-large"></i> VISIÓN</a></li>
+            <li><a href="#community" data-toggle="tab"><i class="fa fa-users"></i> OBJETIVO</a></li>
           </ul>
           <div class="tab-content">
             <div class="tab-pane fade in active" id="about">
               <div class="media">
-                <img class="pull-left media-object" src="app/views/default/efectos/images/about.jpg" alt="about us"> 
+                <img class="pull-left media-object" src="app/views/default/efectos/images/about/mision.png" alt="about us"> 
                 <div class="media-body">
-                  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+                 <p> Nuestra misión es brindar servicios de calidad y desarrollar soluciones tecnológicas que ayuden a nuestros clientes a gestionar y optimizar los procesos de manera rápida y eficiente.</p>
                 </div>
               </div>
             </div>
             <div class="tab-pane fade" id="mission">
               <div class="media">
-                <img class="pull-left media-object" src="images/about-us/mission.jpg" alt="Mission"> 
+                <img class="pull-left media-object" src="app/views/default/efectos/images/about/vision.png" alt="Mission"> 
                 <div class="media-body">
-                  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci </p>
-                </div>
+                 <p> Para este 2017 ser una empresa líder en el ramo, la cual satisfaga las necesidades de los clientes y las empresas que requieran nuestros servicios, y a su vez dar la confianza de que al elegirnos ellos están haciendo una buena elección.</p>              
+               </div>
               </div>
             </div>
             <div class="tab-pane fade" id="community">
               <div class="media">
-                <img class="pull-left media-object" src="images/about-us/community.jpg" alt="Community"> 
+                <img class="pull-left media-object" src="app/views/default/efectos/images/about/objetivo.png" alt="Community"> 
                 <div class="media-body">
-                  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </p>
+                  <p> Dar soluciones tecnológicas que ayuden a los clientes a generar un trabajo rápido y eficiente en oficinas o negocios. </p>
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div class="col-sm-6">
-          <h3>Our Skills</h3>
+          <h3>NUESTRAS HABILIDADES</h3>
           <div class="skill-bar">
             <div class="skillbar clearfix " data-percent="90%">
               <div class="skillbar-title">
@@ -147,25 +147,25 @@
               <div class="skillbar-bar"></div>
               <div class="skill-bar-percent">90%</div>
             </div> <!-- End Skill Bar -->
-            <div class="skillbar clearfix" data-percent="85%">
+            <div class="skillbar clearfix" data-percent="95%">
               <div class="skillbar-title"><span>UI Design</span></div>
               <div class="skillbar-bar"></div>
-              <div class="skill-bar-percent">85%</div>
+              <div class="skill-bar-percent">95%</div>
             </div> <!-- End Skill Bar -->
-            <div class="skillbar clearfix " data-percent="70%">
+            <div class="skillbar clearfix " data-percent="90%">
               <div class="skillbar-title"><span>jQuery</span></div>
               <div class="skillbar-bar"></div>
-              <div class="skill-bar-percent">70%</div>
+              <div class="skill-bar-percent">90%</div>
             </div> <!-- End Skill Bar -->
-            <div class="skillbar clearfix " data-percent="60%">
+            <div class="skillbar clearfix " data-percent="90%">
               <div class="skillbar-title"><span>PHP</span></div>
               <div class="skillbar-bar"></div>
-              <div class="skill-bar-percent">60%</div>
+              <div class="skill-bar-percent">90%</div>
             </div> <!-- End Skill Bar -->
-            <div class="skillbar clearfix " data-percent="75%">
-              <div class="skillbar-title"><span>Wordpress</span></div>
+            <div class="skillbar clearfix " data-percent="85%">
+              <div class="skillbar-title"><span>HTML5</span></div>
               <div class="skillbar-bar"></div>
-              <div class="skill-bar-percent">75%</div>
+              <div class="skill-bar-percent">85%</div>
             </div> <!-- End Skill Bar --></div>
           </div>
         </div>
@@ -178,7 +178,8 @@
       <div class="row text-center">
         <div class="col-sm-8 col-sm-offset-2">
           <h2 class="title-one">Servicios</h2>
-          <p class="single-service">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+          <p class="single-service">“Lo que haces es infinitamente más importante que cómo lo haces. La eficiencia sigue importando, pero es inútil si no la aplicas a lo correcto.” – Timothy Ferriss.</p>
+          <p class="single-service">EDS te ofrece los siguientes servicios, desarrollo de software, creación de redes y mantenimiento a equipo de cómputo para mantener tu negocio o empresa actualizada y a la vanguardia.</p>
         </div>
       </div>
       <div class="row">
@@ -218,7 +219,7 @@
           <div class="row text-center">
             <div class="col-sm-8 col-sm-offset-2">
               <h2 class="title-one">Clientes</h2>
-              <p>  Desde el momento en que el cliente contacta a EDS el trato es profesional, nos dedicamos a escuchar a nuestros clientes para poder ofrecer las mejores  soluciones que mejor se adapten a sus necesidades laborales, ofreciendo una amplia gama de aplicaciones o herramientas que les permitan generar de manera eficiente  los procesos laborales, aprovechando al máximo la información que se genera en ellos, con la finalidad de mejorar los resultados.</p>
+              <p> Desde el momento en que el cliente contacta a EDS el trato es profesional, nos dedicamos a escuchar a nuestros clientes para poder ofrecer las mejores  soluciones que mejor se adapten a sus necesidades laborales, ofreciendo una amplia gama de aplicaciones o herramientas que les permitan generar de manera eficiente  los procesos laborales, aprovechando al máximo la información que se genera en ellos, con la finalidad de mejorar los resultados.</p>
             </div>
           </div>
         </div>
@@ -231,7 +232,7 @@
                   <div class="col-sm-8 col-sm-offset-2">
                     <div class="contact-heading">
                       <h2 class="title-one">Contactanos</h2>
-                      <p class="single-service">Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+                      <p class="single-service">EDS te ofrece los siguientes servicios, desarrollo de software, creación de redes y mantenimiento a equipo de cómputo para mantener tu negocio o empresa actualizada y a la vanguardia.</p>
                     </div>
                   </div>
                 </div>
@@ -241,7 +242,10 @@
                   <!-- <div class="pattern"></div> -->
                   <div class="row text-center clearfix">
                     <div class="col-sm-6">
-                      <div class="contact-address"><address><p><span>Devs</span>Cluster</p><strong>36 North Kafrul<br>Dhaka Cantonment Area<br> Dhaka-1206, Bangladesh</strong><br><small>( Lorem ipsum dolor sit amet, consectetuer adipiscing elit )</small></address>
+                      <div class="contact-address">
+                        <address class="single-service">
+                          <p><span>EDS</span> San Mateo Atenco</p><strong>Av. Juárez<br>Tel: (045) 722 555 5551<br> Tel: (045) 722 555 5551 <br> e-mail: eds_info@empresads.com </strong><br><strong>( Para mayor información, síguenos en nuestras redes sociales. )</strong>
+                        </address>
                         <div class="social">
                           <a href="#"><i class="fa fa-facebook"></i></a>
                           <a href="#"><i class="fa fa-twitter"></i></a>
@@ -276,7 +280,7 @@
   <footer id="footer"> 
     <div class="container"> 
       <div class="text-center"> 
-        <p>Copyright &copy; 2014 - <a href="http://mostafiz.me/">Mostafiz</a> | All Rights Reserved</p> 
+        <p>Copyright &copy; 2016 - <a href="http://mostafiz.me/">Mostafiz</a> | All Rights Reserved</p> 
       </div> 
     </div> 
   </footer> <!--/#footer--> 

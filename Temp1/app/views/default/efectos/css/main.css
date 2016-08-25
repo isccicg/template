@@ -618,7 +618,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-service {
-	background-color: rgba(0, 0, 0, 0.39);
+	background-color: rgba(0, 0, 0, 0);
 	padding:25px;
 	transition: all 0.9s ease 0s;
 	-moz-transition: all 0.9s ease 0s;
