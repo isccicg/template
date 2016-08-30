@@ -1,4 +1,5 @@
   <script type="text/javascript" src="app/views/default/efectos/js/jquery.js"></script> 
+  <script type="text/javascript" src="app/views/default/efectos/js/jquery-ui.js"></script>
   <script type="text/javascript" src="app/views/default/efectos/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="app/views/default/efectos/js/smoothscroll.js"></script> 
   <script type="text/javascript" src="app/views/default/efectos/js/jquery.isotope.min.js"></script>
@@ -7,4 +8,6 @@
   <script type="text/javascript" src="app/views/default/efectos/js/main.js"></script>
   <script type="text/javascript" src="app/views/default/efectos/js/wowslider.js"></script>
   <script type="text/javascript" src="app/views/default/efectos/js/script.js"></script>
-  <script type="text/javascript" src="app/views/default/efectos/js/index.js"></script> 
+  <script type="text/javascript" src="app/views/default/efectos/js/index.js"></script>
+  <script type="text/javascript" src="app/views/default/efectos/js/animations.js"></script>
+  <script type="text/javascript" src="app/views/default/efectos/js/appear.min.js"></script> 

@@ -37,12 +37,6 @@
 <section id="home">
   <div class="home-pattern"></div>
     <div id="main-carousel" class="carousel slide" data-ride="carousel"> 
-      <ol class="carousel-indicators">
-        <li data-target="#main-carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#main-carousel" data-slide-to="1"></li>
-        <li data-target="#main-carousel" data-slide-to="2"></li>
-      </ol><!--/.carousel-indicators--> 
-      
       <!-- Start Slider-->
       <div id="wowslider-container1">
         <div class="ws_images">
@@ -97,13 +91,13 @@
   <div class="container">
     <div class="text-center">
       <div class="col-sm-8 col-sm-offset-2">
-        <h2 class="title-one">¿Por qué con nosotros?</h2>
-        <p>Somos una empresa, que cuenta con un equipo de trabajo altamente calificado y con el suficiente conocimiento para brindar soluciones tecnológicas.</p>
+        <h2 class="title-one animate-in" data-anim-type="fade-in-up" data-anim-delay="0">¿Por qué con nosotros?</h2>
+        <p class="animate-in" data-anim-type="fade-in-up" data-anim-delay="100">Somos una empresa, que cuenta con un equipo de trabajo altamente calificado y con el suficiente conocimiento para brindar soluciones tecnológicas.</p>
       </div>
     </div>
     <div class="about-us">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 animate-in super-slow-mo" data-anim-type="fade-in-up" data-anim-delay="0">
           <h3>¿QUIÉNES SOMOS?</h3>
           <ul class="nav nav-tabs">
             <li class="active"><a href="#about" data-toggle="tab"><i class="fa fa-chain-broken"></i> MISIÓN</a></li>
@@ -112,7 +106,7 @@
           </ul>
           <div class="tab-content">
             <div class="tab-pane fade in active" id="about">
-              <div class="media">
+              <div class="media animated fadeIn">
                 <img class="pull-left media-object" src="app/views/default/efectos/images/about/mision.png" alt="about us"> 
                 <div class="media-body">
                  <p> Nuestra misión es brindar servicios de calidad y desarrollar soluciones tecnológicas que ayuden a nuestros clientes a gestionar y optimizar los procesos de manera rápida y eficiente.</p>
@@ -120,7 +114,7 @@
               </div>
             </div>
             <div class="tab-pane fade" id="mission">
-              <div class="media">
+              <div class="media animated fadeIn">
                 <img class="pull-left media-object" src="app/views/default/efectos/images/about/vision.png" alt="Mission"> 
                 <div class="media-body">
                  <p> Para este 2017 ser una empresa líder en el ramo, la cual satisfaga las necesidades de los clientes y las empresas que requieran nuestros servicios, y a su vez dar la confianza de que al elegirnos ellos están haciendo una buena elección.</p>              
@@ -128,7 +122,7 @@
               </div>
             </div>
             <div class="tab-pane fade" id="community">
-              <div class="media">
+              <div class="media animated fadeIn">
                 <img class="pull-left media-object" src="app/views/default/efectos/images/about/objetivo.png" alt="Community"> 
                 <div class="media-body">
                   <p> Dar soluciones tecnológicas que ayuden a los clientes a generar un trabajo rápido y eficiente en oficinas o negocios. </p>
@@ -137,7 +131,8 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6">
+
+        <div class="col-sm-6 animate-in super-slow-mo" data-anim-type="fade-in-up" data-anim-delay="0">
           <h3>NUESTRAS HABILIDADES</h3>
           <div class="skill-bar">
             <div class="skillbar clearfix " data-percent="90%">
@@ -176,14 +171,14 @@
   <section id="services" class="parallax-section pattern_home">
     <div class="container">
       <div class="row text-center">
-        <div class="col-sm-8 col-sm-offset-2">
+        <div class="col-sm-8 col-sm-offset-2 animate-in" data-anim-type="fade-in-up" data-anim-delay="0">
           <h2 class="title-one">Servicios</h2>
           <p class="single-service">“Lo que haces es infinitamente más importante que cómo lo haces. La eficiencia sigue importando, pero es inútil si no la aplicas a lo correcto.” – Timothy Ferriss.</p>
           <p class="single-service">EDS te ofrece los siguientes servicios, desarrollo de software, creación de redes y mantenimiento a equipo de cómputo para mantener tu negocio o empresa actualizada y a la vanguardia.</p>
         </div>
       </div>
       <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-12 animate-in super-slow-mo" data-anim-type="fade-in-up" data-anim-delay="0">
           <div class="our-service">
             <div class="services row">
               <div class="col-sm-4">
@@ -195,14 +190,14 @@
               </div>
               <div class="col-sm-4">
                 <div class="single-service">
-                  <i class="fa fa-html5"></i>
+                  <i class="fa fa-desktop"></i>
                   <h2>REDES</h2>
                   <p>Diseño, instalación y configuración de redes, de acuerdo a tus necesidades.</p>
                 </div>
               </div>
               <div class="col-sm-4">
                 <div class="single-service">
-                  <i class="fa fa-users"></i>
+                  <i class="fa fa-laptop"></i>
                   <h2>MANTENIMIENTO</h2>
                   <p>Mantenimiento preventivo y correctivo a equipos de cómputo.</p>
                 </div>
@@ -217,7 +212,7 @@
       <div class="container">
         <div class="clients-wrapper">
           <div class="row text-center">
-            <div class="col-sm-8 col-sm-offset-2">
+            <div class="col-sm-8 col-sm-offset-2 animate-in" data-anim-type="fade-in-up" data-anim-delay="0">
               <h2 class="title-one">Clientes</h2>
               <p> Desde el momento en que el cliente contacta a EDS el trato es profesional, nos dedicamos a escuchar a nuestros clientes para poder ofrecer las mejores  soluciones que mejor se adapten a sus necesidades laborales, ofreciendo una amplia gama de aplicaciones o herramientas que les permitan generar de manera eficiente  los procesos laborales, aprovechando al máximo la información que se genera en ellos, con la finalidad de mejorar los resultados.</p>
             </div>
@@ -229,7 +224,7 @@
             <section id="contact" class="parallax-section">
               <div class="container">
                 <div class="row text-center clearfix">
-                  <div class="col-sm-8 col-sm-offset-2">
+                  <div class="col-sm-8 col-sm-offset-2 animate-in" data-anim-type="fade-in-up" data-anim-delay="0">
                     <div class="contact-heading">
                       <h2 class="title-one">Contactanos</h2>
                       <p class="single-service">EDS te ofrece los siguientes servicios, desarrollo de software, creación de redes y mantenimiento a equipo de cómputo para mantener tu negocio o empresa actualizada y a la vanguardia.</p>
@@ -240,7 +235,7 @@
               <div class="container">
                 <div class="contact-details">
                   <!-- <div class="pattern"></div> -->
-                  <div class="row text-center clearfix">
+                  <div class="row text-center clearfix animate-in super-slow-mo" data-anim-type="fade-in-up" data-anim-delay="0">
                     <div class="col-sm-6">
                       <div class="contact-address">
                         <address class="single-service">

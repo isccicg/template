@@ -7,7 +7,8 @@
 <link href="app/views/default/efectos/css/bootstrap.min.css" rel="stylesheet">
 <link href="app/views/default/efectos/css/prettyPhoto.css" rel="stylesheet"> 
 <link href="app/views/default/efectos/css/font-awesome.min.css" rel="stylesheet"> 
-<link href="app/views/default/efectos/css/animate.css" rel="stylesheet"> 
+<link href="app/views/default/efectos/css/animate.css" rel="stylesheet">
+<link href="app/views/default/efectos/css/animations.css" rel="stylesheet"> 
 <link href="app/views/default/efectos/css/main.css" rel="stylesheet">
 <link href="app/views/default/efectos/css/responsive.css" rel="stylesheet">
 <link href="app/views/default/efectos/css/style.css" rel="stylesheet"> 
