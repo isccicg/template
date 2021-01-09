@@ -3,4 +3,3 @@
 	$mvc = new mvc_controller();	
 		$mvc->principal();
 ?>
-echo "actualizar";
